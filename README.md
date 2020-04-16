@@ -7,7 +7,7 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
-<meta content="README.md · master · Fajri Ahmad Nugraha / lelang-online" property="og:title">
+<meta content="README.md · master · Rudy Sarifudin / lelang-online" property="og:title">
 <meta content="GitLab.com" property="og:description">
 <meta content="https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
 <meta content="64" property="og:image:width">
